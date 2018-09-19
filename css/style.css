@@ -295,6 +295,7 @@ a:hover, a:active, a:focus {
   width: 100px;
   margin-top: 42px;
   margin-bottom: 42px;
+    color: brown;
 }
 
 #about ul {
